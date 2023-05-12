@@ -1,0 +1,12 @@
+E:\Vinicius\PUC Minas\Sistemas\health_calc_pack_dotnet\health_calc_pack_dotnet\health_calc_pack_dotnet\bin\Debug\net6.0\health_calc_pack_dotnet.deps.json
+E:\Vinicius\PUC Minas\Sistemas\health_calc_pack_dotnet\health_calc_pack_dotnet\health_calc_pack_dotnet\bin\Debug\net6.0\health_calc_pack_dotnet.dll
+E:\Vinicius\PUC Minas\Sistemas\health_calc_pack_dotnet\health_calc_pack_dotnet\health_calc_pack_dotnet\bin\Debug\net6.0\health_calc_pack_dotnet.pdb
+E:\Vinicius\PUC Minas\Sistemas\health_calc_pack_dotnet\health_calc_pack_dotnet\health_calc_pack_dotnet\obj\Debug\net6.0\health_calc_pack_dotnet.csproj.AssemblyReference.cache
+E:\Vinicius\PUC Minas\Sistemas\health_calc_pack_dotnet\health_calc_pack_dotnet\health_calc_pack_dotnet\obj\Debug\net6.0\health_calc_pack_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vinicius\PUC Minas\Sistemas\health_calc_pack_dotnet\health_calc_pack_dotnet\health_calc_pack_dotnet\obj\Debug\net6.0\health_calc_pack_dotnet.AssemblyInfoInputs.cache
+E:\Vinicius\PUC Minas\Sistemas\health_calc_pack_dotnet\health_calc_pack_dotnet\health_calc_pack_dotnet\obj\Debug\net6.0\health_calc_pack_dotnet.AssemblyInfo.cs
+E:\Vinicius\PUC Minas\Sistemas\health_calc_pack_dotnet\health_calc_pack_dotnet\health_calc_pack_dotnet\obj\Debug\net6.0\health_calc_pack_dotnet.csproj.CoreCompileInputs.cache
+E:\Vinicius\PUC Minas\Sistemas\health_calc_pack_dotnet\health_calc_pack_dotnet\health_calc_pack_dotnet\obj\Debug\net6.0\health_calc_pack_dotnet.dll
+E:\Vinicius\PUC Minas\Sistemas\health_calc_pack_dotnet\health_calc_pack_dotnet\health_calc_pack_dotnet\obj\Debug\net6.0\refint\health_calc_pack_dotnet.dll
+E:\Vinicius\PUC Minas\Sistemas\health_calc_pack_dotnet\health_calc_pack_dotnet\health_calc_pack_dotnet\obj\Debug\net6.0\health_calc_pack_dotnet.pdb
+E:\Vinicius\PUC Minas\Sistemas\health_calc_pack_dotnet\health_calc_pack_dotnet\health_calc_pack_dotnet\obj\Debug\net6.0\ref\health_calc_pack_dotnet.dll

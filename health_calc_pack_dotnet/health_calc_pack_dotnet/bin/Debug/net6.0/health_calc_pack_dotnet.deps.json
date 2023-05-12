@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "health_calc_pack_dotnet/1.0.0": {
+        "runtime": {
+          "health_calc_pack_dotnet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "health_calc_pack_dotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
